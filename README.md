@@ -1,6 +1,6 @@
 # newgod
 
-> 신규호 프로젝트
+> Nuxt.js project
 
 ## Build Setup
 
@@ -20,7 +20,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+"# MyCloud1" 
 "# newgod" 
-"# newgod" 
-"# newgod" 
-"# newgod"
