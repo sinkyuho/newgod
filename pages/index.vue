@@ -3,10 +3,10 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        newgod
+        Sin kyuho Portfolio
       </h1>
       <h2 class="subtitle">
-        신규호 프로젝트
+        Nuxt.js project
       </h2>
       <div class="links">
         <a

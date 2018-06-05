@@ -1,7 +1,7 @@
 {
   "name": "newgod",
   "version": "1.0.0",
-  "description": "신규호 프로젝트",
+  "description": "Nuxt.js project",
   "author": "sinkyuho <bb7305@naver.com>",
   "private": true,
   "scripts": {
