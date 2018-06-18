@@ -29,7 +29,8 @@
             </article>
 
             <article class="tile is-child notification is-warning">
-              <p class="title">Facebook</p>
+              <p class="title"> SNS </p>
+              <p class="subtitle"> Facebook </p>
               <figure class="image  is-128 x128">
                   <a href="https://www.facebook.com/profile.php?id=100003447457543"> <img src="~static/sinkyuho.png"></a>
            </figure>
@@ -52,12 +53,58 @@
         <div class="tile is-parent">
           <article class="tile is-child notification is-danger">
             <p class="title">가족</p>
-            <figure class="image is 64*64">
+            <figure class="image is 128*128">
                 <img src="~static/fam.jpg">
-                <p class="subtitle">Aligned with the right tile</p>
+                  <br>
+                <table class="table">
+                    <thead>
+                      <tr>
+                        <th><abbr title="Position">이름</abbr></th>
+                        <th><abbr title="Played">나이</abbr></th>
+                        <th><abbr title="Won">직업</abbr></th>
+                        <th><abbr title="Drawn">지역</abbr></th>
+                        <th><abbr title="Lost">관계</abbr></th>
+                      </tr>
+                    </thead>
+                    <tfoot>
+                      
+                    </tfoot>
+                    <tbody>
+                      <tr>
+                        <th>신 만하</th>
+                        <td>56</td>
+                        <td>교회 관리</td>
+                        <td>충남 예산</td>
+                        <td>부</td>
+                      </tr>
+                      <tr>
+                        <th>박 은영</th>
+                        <td>56</td>
+                        <td>무역</td>
+                        <td>서울 여의도</td>
+                        <td>모</td>
+                      </tr>
+                      <tr>
+                        <th>신 소민</th>
+                        <td>26</td>
+                        <td>서버 관리자</td>
+                        <td>도쿄</td>
+                        <td>누나</td>
+                      </tr>
+                      <tr class="is-selected">
+                        <th>신 규호</th>
+                        <td>25</td>
+                        <td>음향 엔지니어</td>
+                        <td>대전</td>
+                        <td>본인</td>
+                      </tr>
+                    </tbody>
+                  </table>  
               </figure>
+
+
             <div class="content">
-              <!-- Content -->
+              
             </div>
           </article>
         </div>
@@ -82,6 +129,10 @@
                       <img src="~static/vic.jpg">
                       <p class="subtitle">친해지기</p>
                     </figure>
+                    <figure class="image is 70*70">
+                        <img src="~static/fa.jpg">
+                        <p class="subtitle">유명인과 사진찍기</p>
+                      </figure>
 
             <div class="content">
               <!-- Content -->
@@ -90,10 +141,6 @@
         </article>
       </div>
     </div>
-    <p>dsfxdfhfdhfdhg</p>
-    <br>
-
-
 
   </section>
 
