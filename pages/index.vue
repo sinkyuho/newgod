@@ -1,63 +1,79 @@
 <template>
-    <section class="container">
-    
-      <hr>
-    
-      <section class="hero is-primary">
-    
-        <div class="hero-body">
-    
-          <div class="container">
-    
-            <h1 class="title">
-    
-              기술
-    
-            </h1>
-    
-            <h2 class="subtitle">
-    
-              지금까진 배운 기술 , 관심있는 기술
-    
-            </h2>
-    
-          </div>
-    
+  <section class="container">
+
+    <hr>
+
+    <section class="hero is-primary">
+
+      <div class="hero-body">
+
+        <div class="container">
+
+          <h1 class="title" style="text-align: center">
+
+            My self
+
+          </h1>
+
         </div>
-    
-      </section>
-    
-      <div class="box">
-    
-        <div class="media-content">
-    
-          <div class="content">
-    
-            <p>
-    
-              <strong>지금까지 배운 기술들 :</strong>
-    
-              <br>
-  
-              1. C언어  <br>
-              2. JAVA (Android)  <br>
-              3. javascript (node.js, vue.js , nuxt.js )  <br>
-  
-            </p>
-    
-            <p>
-    
-              <strong>관심있는 기술들 :</strong>
-    
-              <br>
-    
-            </p>
-    
-          </div>
-    
-        </div>
-    
+
       </div>
-    
+
     </section>
-  </template>
+    <br>
+
+    <div class="tile is-ancestor">
+      <div class="tile is-vertical is-8">
+        <div class="tile">
+          <div class="tile is-parent is-vertical">
+            <article class="tile is-child notification is-primary">
+              <p class="title">Vertical...</p>
+              <p class="subtitle">Top tile</p>
+            </article>
+            <article class="tile is-child notification is-warning">
+              <p class="title">...tiles</p>
+              <p class="subtitle">Bottom tile</p>
+            </article>
+          </div>
+          <div class="tile is-parent">
+            <article class="tile is-child notification is-info">
+              <p class="title">Middle tile</p>
+              <p class="subtitle">With an image</p>
+              <figure class="image is-4by3">
+                <img src="https://bulma.io/images/placeholders/640x480.png">
+              </figure>
+            </article>
+          </div>
+        </div>
+        <div class="tile is-parent">
+          <article class="tile is-child notification is-danger">
+            <p class="title">Wide tile</p>
+            <p class="subtitle">Aligned with the right tile</p>
+            <div class="content">
+              <!-- Content -->
+            </div>
+          </article>
+        </div>
+      </div>
+      <div class="tile is-parent">
+        <article class="tile is-child notification is-success">
+          <div class="content">
+            <p class="title">Tall tile</p>
+            <p class="subtitle">With even more content</p>
+            <figure class="image is-4by3">
+              <img src="https://bulma.io/images/placeholders/640x480.png">
+            </figure>
+            <div class="content">
+              <!-- Content -->
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+
+
+
+  </section>
+
+
+</template>
