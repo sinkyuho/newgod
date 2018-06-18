@@ -23,17 +23,20 @@
 
 
         <div class="box" style="width:650px; height:600px; border:1px solid red; float:left;  ">
-                <figure class="image  is-64x64">
-                     <img src="https://s-i.huffpost.com/gen/5024106/thumbs/o-PUPPIES-570.jpg?1">
+                <figure class="image  is 64x64">
+                     <img src="http://imgnews.naver.com/image/5285/2015/09/06/31908_45283_4753_99_20150906152610.jpg">
+                     <br>
                 </figure>
-                      <figure class="image is 70*70">
+                      <figure class="image is-60*60">
                             <img src="~static/ball2.jpg">
                             <p class="subtitle">한화생명 이글스파크 음향장비</p>
+                            <br>
                           </figure>
 
                 <figure class="image is 70*70">
                         <img src="~static/ball3.jpg">
                         <p class="subtitle">한화생명 이글스파크 음향 장비</p>
+                        <br>
                       </figure>
 
         </div>
