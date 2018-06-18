@@ -27,12 +27,15 @@
         <div class="tile">
           <div class="tile is-parent is-vertical">
             <article class="tile is-child notification is-primary">
-              <p class="title">Vertical...</p>
-              <p class="subtitle">Top tile</p>
+              <p class="title">만든이</p>
+              <p class="subtitle">신 규호 </p>
             </article>
+
             <article class="tile is-child notification is-warning">
-              <p class="title">...tiles</p>
-              <p class="subtitle">Bottom tile</p>
+              <p class="title">Facebook</p>
+              <figure class="image  is-128 x128">
+                  <a href="https://www.facebook.com/profile.php?id=100003447457543"> <img src="~static/sinkyuho.png"></a>
+           </figure>
             </article>
           </div>
           <div class="tile is-parent">

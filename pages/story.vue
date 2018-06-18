@@ -2,7 +2,23 @@
     <section class="container">
 
         <hr>
-  
+        <section class="hero is-primary">
+
+                <div class="hero-body">
+          
+                  <div class="container">
+          
+                    <h1 class="title" style="text-align: center">
+          
+                      경력
+          
+                    </h1>
+          
+                  </div>
+          
+                </div>
+          
+              </section>
         <div class="box" style="width:650px; height:600px; border:1px solid red; float:left;  ">
                 <figure class="image  is-64x64">
                      <img src="https://s-i.huffpost.com/gen/5024106/thumbs/o-PUPPIES-570.jpg?1">
