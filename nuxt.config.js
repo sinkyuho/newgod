@@ -3,15 +3,16 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'newgod',
+    title: 'kyb',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Nuxt.js project' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css' }
+    ],
+    script: [{ src: 'https://use.fontawesome.com/releases/v5.0.7/js/all.js', defer: '' }]
   },
   /*
   ** Customize the progress bar color
