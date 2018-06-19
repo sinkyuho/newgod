@@ -53,13 +53,12 @@
         <div class="tile is-parent">
           <article class="tile is-child notification is-danger">
             <p class="title">가족</p>
-            <figure class="image is 128*128">
-                <img src="~static/fam.jpg">
+                <img src="~static/fam.jpg" width="auto" height="auto">
                   <br>
-                <table class="table">
+                <table class="table" style="width: 100%; margin-left: auto; margin-right: auto; ">
                     <thead>
                       <tr>
-                        <th><abbr title="Position">이름</abbr></th>
+                        <th ><abbr title="Position">이름</abbr></th>
                         <th><abbr title="Played">나이</abbr></th>
                         <th><abbr title="Won">직업</abbr></th>
                         <th><abbr title="Drawn">지역</abbr></th>
@@ -100,7 +99,6 @@
                       </tr>
                     </tbody>
                   </table>  
-              </figure>
 
 
             <div class="content">
@@ -113,23 +111,23 @@
         <article class="tile is-child notification is-success">
           <div class="content">
             <p class="title">취미</p>
-            <figure class="image is 4by3">
+            <figure class="image is 70*70" style="width: 100%; margin-left: auto; margin-right: auto; ">
                 <img src="~static/ho2.jpg">
                 <p class="subtitle">맛집 여행</p>
               </figure>
-              <figure class="image is 4by3">
+              <figure class="image is 4by3" style="width: 100%; margin-left: auto; margin-right: auto; ">
                   <img src="~static/ho1.jpg">
                   <p class="subtitle">페스티벌</p>
                 </figure>
-                <figure class="image is 70*70">
+                <figure class="image is 70*70" style="width: 100%; margin-left: auto; margin-right: auto; ">
                     <img src="~static/ho0.jpg">
                     <p class="subtitle">야구</p>
                   </figure>
-                  <figure class="image is 70*70">
+                  <figure class="image is 70*70" style="width: 100%; margin-left: auto; margin-right: auto; ">
                       <img src="~static/vic.jpg">
                       <p class="subtitle">친해지기</p>
                     </figure>
-                    <figure class="image is 70*70">
+                    <figure class="image is 70*70" style="width: 100%; margin-left: auto; margin-right: auto; ">
                         <img src="~static/fa.jpg">
                         <p class="subtitle">유명인과 사진찍기</p>
                       </figure>
@@ -141,7 +139,7 @@
         </article>
       </div>
     </div>
-
+    <p style="text-align: center">지금보는 페이지는 신 규호가 만든 페이지로 불펌을 허가하고 많은사람이 이페이지를 보고 감명받을수 있기를 기대하며 만들었습니다.<br>- 신 규호 -</p>
   </section>
 
 
