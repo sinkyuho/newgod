@@ -24,7 +24,7 @@
           <div class="tile is-parent is-vertical">
             <article class="tile is-child notification is-primary">
               <p class="title">페이지 소개</p>
-              <p class="subtitle">신 규호(辛 圭皓)의 개인<br>페이지로 웹포프폴리오와<br> 웹페이지 연승의 용도로<br>만들어 졌습니다.</p>
+              <p class="subtitle"><br>신 규호(辛 圭皓)의 개인<br>페이지로 웹포프폴리오와<br> 웹페이지 연승의 용도로<br>만들어 졌습니다.</p>
             
             </article>
 
@@ -42,6 +42,7 @@
               <p class="subtitle">신규호는 누구인가?</p>
               <figure class="image  is-128*128">
                   <img src="~static/self.jpg">
+                  <br>
                   <p class="subtitle">나이 : 25</p>
                   <p class="subtitle">취미 : 음악, 영화평론</p>
                   <p class="subtitle">직업 : 음향 엔지니어</p>
@@ -140,6 +141,7 @@
       </div>
     </div>
     <p style="text-align: center">지금보는 페이지는 신 규호가 만든 페이지로 불펌을 허가하고 많은사람이 이페이지를 보고 감명받을수 있기를 기대하며 만들었습니다.<br>- 신 규호 -</p>
+    
   </section>
 
 
